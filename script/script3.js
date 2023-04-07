@@ -26,7 +26,7 @@
     
 // </body>
 // </html>
-var zakatperstange=0.025;
+var zakatperstange = 0.025;
 var user_input=Numberprompt("Enter a number");
-var result=(zakatpecentage)*(userinput);
+var result=(zakatpercentage)*(userinput);
 alert("your zakat value is"+ result);
