@@ -8,7 +8,7 @@
 // <link rel="stylesheet" href="./style.css/html">
 // Day 2
 
-// <
+// 
    
 
 // </script>
@@ -16,17 +16,9 @@
 //     alert('Welcome to JavaScript');
 // <script type="text/javascript">
 // alert(5+4);
-// </script>
-// <script type="text/javascript">
-//     document.write('Welcome to JavaScript')
-// </script>
+var Zakat_persantage =0.025; //2.5%
+var user_input  = Number(prompt("Enter your Amount"));
+var result = 0.025 * user_input;
+alert("your zakat is " + result);
 
-// </head>
-// <body>
-    
-// </body>
-// </html>
-var zakatperstange = 0.025;
-var user_input=Numberprompt("Enter a number");
-var result=(zakatpercentage)*(userinput);
-alert("your zakat value is"+ result);
+
